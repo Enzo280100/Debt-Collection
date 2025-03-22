@@ -1,0 +1,17 @@
+# Librerias Bases
+pandas
+numpy
+matplotlib
+seaborn
+
+# Librerias de Preprocesamiento
+scikit-learn
+imbalanced-learn
+
+# Librerias de Modelado
+scikit-learn
+xgboost
+
+# Librerias de Evaluacion
+scikit-learn
+shap
