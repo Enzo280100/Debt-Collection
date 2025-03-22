@@ -50,8 +50,7 @@ El objetivo principal de este estudio es desarrollar un modelo que permita mejor
 
 - **data/**: Contiene los archivos de datos utilizados en el análisis.
 - **notebooks/**: Incluye los cuadernos de Jupyter con el análisis exploratorio y el desarrollo del modelo.
-- **scripts/**: Scripts en Python para la limpieza y procesamiento de datos.
-- **results/**: Almacena los resultados del modelo y las visualizaciones generadas.
+- **txt/**: Archivo .txt para la instalacion de las librerias empleadas.
 - **README.md**: Este archivo, que proporciona una descripción general del proyecto.
 
 ## Requisitos
